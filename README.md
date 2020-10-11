@@ -26,8 +26,8 @@ Topics:
 
 Once you are done your application will have two routes:
 
-* [ ] [Screenshot of route '/'](https://tk-assets.lambdaschool.com/b9ced241-681f-432a-9047-ef2ba7e34946_first-route.png)
-* [ ] [Screenshot of route '/movies/:id'](https://tk-assets.lambdaschool.com/06f9f448-2804-4b4a-9408-41904af96a4e_second-route.png)
+* [x] [Screenshot of route '/'](https://tk-assets.lambdaschool.com/b9ced241-681f-432a-9047-ef2ba7e34946_first-route.png)
+* [x] [Screenshot of route '/movies/:id'](https://tk-assets.lambdaschool.com/06f9f448-2804-4b4a-9408-41904af96a4e_second-route.png)
 
 #### Set up Routes
 
@@ -63,8 +63,8 @@ If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
 
 #### Turn your Saved Movie `Link`s into `NavLink`s
 
-* [ ] Navlink
+* [x] Navlink
 
 ## Submission Format
 
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+* [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
