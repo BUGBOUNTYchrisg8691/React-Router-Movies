@@ -40,8 +40,8 @@ Once you are done your application will have two routes:
 
 * [x] When a user clicks on the movie card inside `MovieList` they should be taken to `/movies/{id of clicked movie here}` to see the details of the selected movie.
 * [x] You will need to modify line 7 of `Movie.js` to get the id of the selected movie from the URL.
-* [ ] Add functionality so the `Home` button on the `SavedList` component navigates back to home.
-* [ ] You should now be able to navigate back and forth between the list of movies and the detailed view of a single movie.
+* [x] Add functionality so the `Home` button on the `SavedList` component navigates back to home.
+* [x] You should now be able to navigate back and forth between the list of movies and the detailed view of a single movie.
 
 ### Task 3: Stretch Goals
 
@@ -55,7 +55,7 @@ If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
 
 #### Add `Save Movie` functionality
 
-* [x] You will notice there is a 'Saved Movies' component that we are not currently using. In this step you will add the functionality to save a movie. You will need to pass the `addToSavedList` function to the `Movie` component. Once you have done that you will need to add a click handler to the save button. You will need to uncomment lines 24-27 in `Movie.js` to complete this.
+* [ ] You will notice there is a 'Saved Movies' component that we are not currently using. In this step you will add the functionality to save a movie. You will need to pass the `addToSavedList` function to the `Movie` component. Once you have done that you will need to add a click handler to the save button. You will need to uncomment lines 24-27 in `Movie.js` to complete this.
 
 #### Turn your Saved Movie list into `Link`s
 
