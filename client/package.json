@@ -16,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prod": "NODE_ENV=production node build/server-bundle.js",
+    "dev": "node --inspect build/server-bundle.js"
   },
   "eslintConfig": {
     "extends": "react-app"
